@@ -1,0 +1,6 @@
+#!/bin/bash
+
+WD=wsdd
+
+wget -P /tmp/ https://github.com/mapi68/"$WD"/raw/master/"$WD"_latest.deb
+sudo apt install -qq -y /tmp/"$WD"_latest.deb; rm -rf /tmp/"$WD"_latest*
