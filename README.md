@@ -13,6 +13,6 @@ curl -sSfL https://raw.githubusercontent.com/mapi68/wsdd/master/wsdd-install | b
 ```
 
 ## Info
-Do I need wsdd? If you have a Linux machine with a Samba server and you don't see it on your Windows machine, I say yes, of course!
+Do I need wsdd? If you have a Linux machine with a Samba server and you don't see it on your Windows machine, I say: "**Yes, of course!**".
 
 For additional info about wsdd, go [here](https://github.com/christgau/wsdd)
