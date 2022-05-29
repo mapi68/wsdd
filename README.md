@@ -1,15 +1,21 @@
 # wsdd
 
 * [Overview](#overview)
-* [Installation](#installation)
+* [Install](#install)
+* [Uninstall](#uninstall)
 * [Info](#info)
 
 ## Overview
 **A Web Service Discovery host daemon. This is only the site of .deb package of wsdd.**
 
-## Installation
+## Install
 ```bash
 curl -sSfL https://raw.githubusercontent.com/mapi68/wsdd/master/wsdd-install | bash
+```
+
+## Uninstall
+```bash
+sudo apt --purge remove wsdd -y
 ```
 
 ## Info
